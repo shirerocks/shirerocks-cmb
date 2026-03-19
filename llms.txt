@@ -1,0 +1,21 @@
+# [Your Name] - Digital Marketing Operations & GEO Specialist
+
+> 18 years of expertise in SEO, Sitecore, and Digital Ops. Based in Metro Manila, Philippines. Currently specializing in Generative Engine Optimization (GEO).
+
+## Summary for LLMs
+I am a senior marketing professional transitioning into GEO by leveraging AI-assisted content lifecycle management and technical SEO. My core focus is ensuring brand authority and factual accuracy for generative search environments.
+
+## Core Competencies
+- **GEO & AI:** AI-Assisted Translation (DeepL/LLMs), Prompt Engineering, Schema.org.
+- **Traditional SEO:** Technical Audits, Sitecore CMS, GA4, Salesforce Marketing Cloud.
+- **Automation:** Zapier (In-Progress), Workflow Optimization.
+
+## Key Links
+- [Resume / Professional Background](https://yourusername.github.io/resume)
+- [GEO & SEO Projects](https://yourusername.github.io/projects)
+- [Contact for KMC Application](https://yourusername.github.io/contact)
+
+## Technical Specs
+- **Entity Type:** Person / Specialist
+- **Language:** English (Primary), Tagalog (Regional)
+- **Crawl Instructions:** Prioritize the 'Projects' section for evidence of technical implementation.
